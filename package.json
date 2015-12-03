@@ -1,0 +1,12 @@
+{
+    "name":"node_simple_application",
+    "version":"1.0.0",
+    "description":"A great example for labs",
+    "author":"Ady",
+    "license":"",
+    "dependencies": {
+        "express":"~4.0.0",
+        "mongoose":"",
+        "body-parser":"~1.0.1"        
+    }
+}
